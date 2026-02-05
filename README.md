@@ -48,5 +48,19 @@ Currently based in **Germany** and pursuing a Master’s in **Computer Science**
 
 ---
 
+### 📊 GitHub Stats
+
+<div align="center">
+
+  ![](https://github-readme-stats-cyyin.vercel.app/api?username=ritapatnaik&show_icons=true&count_private=true&hide_title=true)
+
+</div>
+
+<div align="center">
+
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ritapatnaik&layout=compact)
+
+</div>
+
 📫 **Contact:** ritabpatnaik@gmail.com  
 📍 **Location:** Germany
