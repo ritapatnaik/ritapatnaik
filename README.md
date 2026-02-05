@@ -38,7 +38,7 @@ Currently based in **Germany** and pursuing a Master’s in **Computer Science**
 
 - Web application development  
 - Software testing & automation  
-- Software process maturity & ALM tools  
+- ALM tools  
 
 ---
 
