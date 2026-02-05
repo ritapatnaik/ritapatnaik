@@ -1,4 +1,4 @@
-<h2 align="center">Rita Binod Patnaik</h2>
+<h1 align="center">Hi 👋, I'm Rita Binod Patnaik</h1>
 <h4 align="center">
 FrontEnd Developer | Test Automation | MSc Computer Science
 </h4>
