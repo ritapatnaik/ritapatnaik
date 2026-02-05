@@ -16,8 +16,7 @@ FrontEnd Developer | Test Automation | MSc Computer Science
 
 ### 👋 About
 
-Highly motivated Computer Science student with hands-on experience in **frontend development**, **automation testing**, and **VR application development**.  
-Experienced in improving system performance, streamlining workflows, and delivering user-focused solutions through Agile collaboration.
+Highly motivated Computer Science graduate with hands-on experience in **frontend development**, **automation testing**, and **VR application development**.  Experienced in improving system performance, streamlining workflows, and delivering user-focused solutions through Agile collaboration.
 
 Currently based in **Germany** and pursuing a Master’s in **Computer Science** at the University of Paderborn.
 
