@@ -35,10 +35,6 @@ Currently based in **Germany** and pursuing a Master’s in **Computer Science**
 
 ---
 
-> My projects focus on performance optimization, usability, and scalable software solutions.
-
----
-
 ### 📌 Current Interests
 
 - Web application development  
